@@ -1,12 +1,11 @@
-# NAME TBD
+# OverWrapped
 
 ## Introduction
-This project is essentially Spotify Wrapped, where there are multiple sections relating to your recent experiences on spotify and are displayed for you, which are gathered directly from your spotify history.
+This takes inspiration from Spotify Wrapped, where multiple sections of your recent listening experiences on spotify are displayed for you with cool visual effects and music to showcase them.
 
-It will show:
+OverWrapped takes in data directly from your spotify account to generate:
 Top Artists
 Most listened
+And others to come !
 
-
-
-I intend to create this by retrieving data from Spotify's Web API, while putting it with my own custom UI.
+This project retrieves data using Spotify Web Api and displays it with my custom UI.
